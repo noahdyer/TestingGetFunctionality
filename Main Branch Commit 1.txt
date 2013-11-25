@@ -1,2 +1,2 @@
 Main Branch Commit 1
-A line added in the testing branch
+A line added in the testing branch 2
